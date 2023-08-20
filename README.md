@@ -27,7 +27,7 @@ g + ] :  跳转到定义
 ctrl + o ： 跳回上一次的位置
 
 ### statusline
-stausline增加了函数前面，对于阅读很长的函数很有帮助
+stausline增加了函数签名，对于阅读很长的函数很有帮助
 <img width="1703" alt="image" src="https://github.com/wjwever/vimconf/assets/50772316/ec42bc6c-94f3-46e2-af88-ab8fd71823ae">
 ### cpp h 切换
 F8 ： cpp h 切换
