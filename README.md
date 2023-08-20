@@ -7,7 +7,6 @@
   ### [ripgrep](https://github.com/BurntSushi/ripgrep) 一个比grep更快的字符搜索工具
   ### [fd](https://github.com/sharkdp/fd)  一个简单、快速、友好的 find 替代品
   ### [fzf](https://github.com/junegunn/fzf#as-vim-plugin)  一个模糊搜索工具
-  ### git 
 ## 快捷键
 ### NerdTree
 F2   :  打开、关闭NerdTree 
