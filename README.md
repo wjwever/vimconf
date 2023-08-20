@@ -3,9 +3,11 @@
   基于vim8的配置文件，纯vim配置，插件不多，但都是很实用的，启动速度比较快，总体图如下
   <img width="2026" alt="image" src="https://github.com/wjwever/vimconf/assets/50772316/3c14376a-d45d-432e-b3a3-54d9a274ef4b">
 ## 依赖
-  ### rg
-  ### fd
-  ### fzf
+  下面几个工具要放到path路径中
+  ### [ripgrep](https://github.com/BurntSushi/ripgrep) 一个比grep更快的字符搜索工具
+  ### [fd](https://github.com/sharkdp/fd)  一个简单、快速、友好的 find 替代品
+  ### [fzf](https://github.com/junegunn/fzf#as-vim-plugin)  一个模糊搜索工具
+  ### git 
 ## 快捷键
 ### NerdTree
 F2   :  打开、关闭NerdTree 
