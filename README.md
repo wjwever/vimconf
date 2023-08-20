@@ -10,7 +10,7 @@
 ## 快捷键
 ### NerdTree
 F2   :  打开、关闭NerdTree 
-#### Tagbar
+### Tagbar
 F3   :  打开、闭关Tabbar
 ### Minibuf
 F4   : 打开、关闭minibuf
