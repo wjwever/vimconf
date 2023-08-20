@@ -49,3 +49,6 @@ leader + f : 查找文件
 
 ### 主题
 主题采用的是gruvbox，同时molokai也下载好了，这是本人比较喜欢的两个主题
+
+## TODO
+后面准备整一个类似的neovim的配置
